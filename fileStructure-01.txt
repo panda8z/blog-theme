@@ -1,0 +1,22 @@
+.
+├── LICENSE
+├── archetypes
+│   └── default.md
+├── fileStructure-01.txt
+├── layouts
+│   ├── 404.html
+│   ├── _default
+│   │   ├── baseof.html
+│   │   ├── list.html
+│   │   └── single.html
+│   ├── index.html
+│   └── partials
+│       ├── footer.html
+│       ├── head.html
+│       └── header.html
+├── static
+│   ├── css
+│   └── js
+└── theme.toml
+
+7 directories, 12 files
